@@ -1,0 +1,22 @@
+.navbar{
+  transition: all .6s ease 0s;
+  //padding-top: 20px;
+  //padding-bottom: 20px;
+  font-family: "Josefin Sans", sans-serif;
+  -webkit-font-smoothing: antialiased;
+
+  .navbar-nav{
+    font-size: 14px;
+  }
+  .navbar-brand{
+    font-size: 1.8rem;
+  }
+  .navbar-toggler{
+    background: #fff;
+    border-radius: 0;
+    .navbar-toggler-icon{
+      height: auto;
+      padding: 8px 0;
+    }
+  }
+}
