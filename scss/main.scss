@@ -39,15 +39,16 @@ h2{
 }
 h3{
   font-size: 26px;
-  //font-weight: bold;
+  font-weight: bold;
   color: $dark;
   //font-family: "Saira Extra Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 h4{
   //font-size: 28px;
   font-size: inherit;
-  font-weight: bold;
+  //font-weight: bold;
   text-transform: uppercase;
+  color: $dark;
   //line-height: 1.5em;
   //font-family: "Saira Extra Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
