@@ -2,7 +2,7 @@
   transition: all .6s ease 0s;
   //padding-top: 20px;
   //padding-bottom: 20px;
-  font-family: "Josefin Sans", sans-serif;
+  //font-family: "Josefin Sans", sans-serif;
   -webkit-font-smoothing: antialiased;
 
   .navbar-nav{
@@ -10,6 +10,7 @@
   }
   .navbar-brand{
     font-size: 1.8rem;
+    font-family: "Josefin Sans", sans-serif;
   }
   .navbar-toggler{
     background: #fff;
