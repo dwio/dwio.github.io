@@ -1,6 +1,12 @@
 
 @media (max-width: 991.98px) {
   .navbar{
-    background-color: $gray-900;
+    background-color: $dark;
+    a{
+      color: $white !important;
+    }
+    .navbar-nav{
+      margin-top: 1.5rem !important;
+    }
   }
 }

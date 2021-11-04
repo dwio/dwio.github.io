@@ -29,8 +29,10 @@
   $(window).on('scroll', function () {
     if ($(window).scrollTop() > 70) {
       $('.navbar').addClass('bg-dark');
+      $('.navbar a').addClass('text-white');
     } else {
       $('.navbar').removeClass('bg-dark');
+      $('.navbar a').removeClass('text-white');
     }
 
   });
